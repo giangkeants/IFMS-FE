@@ -1,4 +1,11 @@
+export { ArrowLeftIcon } from './ArrowLeftIcon';
+export { ArrowRightIcon } from './ArrowRightIcon';
+export { EnvelopeIcon } from './EnvelopeIcon';
 export { EyeIcon } from './EyeIcon';
 export { EyeOffIcon } from './EyeOffIcon';
 export { HelpCircleIcon } from './HelpCircleIcon';
+export { IdCardIcon } from './IdCardIcon';
+export { MailIcon } from './MailIcon';
+export { PhoneIcon } from './PhoneIcon';
 export { SpinnerIcon } from './SpinnerIcon';
+export { UserIcon } from './UserIcon';
